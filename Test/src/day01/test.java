@@ -5,5 +5,6 @@ public class test {
 		System.out.println("测试");
 		System.out.println("加");
 		System.out.println("再加");
+		System.out.println("家家");
 	}
 }
